@@ -68,7 +68,7 @@ I'm committed to learning consistently, building real projects, and growing towa
 
 ---
 
-*Learning, building, and growing toward AI engineering — one project at a time.* 🚀
+*Learning, building,and growing toward AI engineering — one project at a time.* 🚀
 
 ## 📊 GitHub Statistics
 

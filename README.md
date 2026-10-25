@@ -72,8 +72,10 @@ I'm committed to learning consistently, building real projects, and growing towa
 
 ## 📊 GitHub Statistics
 
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=motigemeda97-rgb&show_icons=true&theme=github_dark&hide_border=true" alt="Moti's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=motigemeda97-rgb&show_icons=true&theme=github_dark&hide_border=true&custom_title=Moti%20Gemeda%27s%20GitHub%20Stats" alt="Moti Gemeda's GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motigemeda97-rgb&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 </p>
+
 

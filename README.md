@@ -1,6 +1,6 @@
-# Hi, I'm Moti Gemeda 👋
+# Hi, I'm Moti Gemeda 
 
-## Software Engineering Student | Aspiring AI Engineer
+### Software Engineering Student | Aspiring AI Engineer
 
 I'm a Software Engineering student at Jimma University, Ethiopia, passionate about building useful software and growing my skills in Artificial Intelligence and Machine Learning.
 
